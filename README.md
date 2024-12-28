@@ -6,5 +6,3 @@ Discord: https://discord.gg/sFjN9HnTJF
 
 > 50 stars = upload this tool
 > 50 stars = upload this tool
-
-![Banner](image.png)
